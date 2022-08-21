@@ -1,16 +1,16 @@
 USER MANUAL:
 
-Place the .fasta file (and query file)into the Assignment/Assignment1/bin/Debug folder.
-Output files from the program will also be saved into the Assignment/Assignment1/bin/Debug folder.
+Place the .fasta file (and query file)into the .../n10203478Assignment/DNA/bin/Debug folder.
+Output files from the program will also be saved into the .../n10203478Assignment/DNA/bin/Debug folder.
 
-To build: Open the Assignment1.sln file which can be found in Assignment/Assignment1, and build by either clicking 'Build' or holding down keys CTRL+SHIFT+B.
+To build: Open the DNA.sln file which can be found in Assignment/Assignment1, and build by either clicking 'Build' or holding down keys CTRL+SHIFT+B.
 
 To run the program from the command line:
 Enter:
-	cd .../Assignment/Assignment1/bin/Debug
-	Assignment1.exe
+	cd .../n10203478Assignment/DNA/bin/Debug 
+	DNA.exe [Input search query here]
 
-There are 3 search levels:
+There are 6 search levels:
 
 Level 1:	Sequential access using a starting position in the file. 
 		Example: Search16s -level1 filename.fasta 273 10 					
@@ -30,5 +30,35 @@ Level 3: 	Sequential access to find a set of sequence-ids given in a query file,
 
 			Query filename – in the example it is query.txt – is specified on the command line. The
 			file contains a set of sequence-ids. The program writes out all matching sequences to the
-			specified results file (not to the console). Sequence-ids that are not found should however
-			be output to the console with a suitable error message.
+			specified results file (not to the console). 
+
+Level 4: 	Indexed file access, implementing direct access to sequences.
+		Example: IndexSequence16s 16S.fasta 16S.index
+		
+			Two file names are specified, the fasta file name and the index file name. 
+			The program creates a sequenceid index to the fasta file. The index supports direct access to sequences, by sequenceid. 
+			Specifically, the program creates an index file. Each line consists of a sequenceid and file-offset.
+
+		Example: Search16s -level4 16S.fasta 16S.index query.txt results.txt
+			
+			The sequences are then read from the fasta file using direct access rather than a sequential scan by using the file offsets from the index.
+	
+Level 5: 	Search for an exact match of a DNA query string.
+		Example: Search16s -level5 16S.fasta CTGGTACGGTCAACTTGCTCTAAG
+
+			All matching sequence ids are displayed to the console.
+
+Level 6: 	Search for a sequence meta-data containing a given word
+		Example: Search16s -level6 16S.fasta Streptomyces
+
+			All matching sequence ids are displayed to the console. The sequence ids corresponding to the sequence which contains the given word are displayed.
+
+
+Level 7: 	Search for a sequence containing wild cards.
+		Example: Search16s -level7 16S.fasta ACTG*GTAC*CA
+			
+			A “*” stands for any number of characters in the same position.
+			All matching sequence ids are displayed to the console. The sequence ids corresponding to the sequence which contains the given word are displayed.
+
+
+			 

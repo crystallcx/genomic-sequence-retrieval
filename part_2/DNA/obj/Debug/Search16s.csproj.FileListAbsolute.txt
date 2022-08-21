@@ -1,0 +1,59 @@
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\Assignment1.exe.config
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\Assignment1.exe
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\Assignment1.pdb
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Assignment1.exe
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Assignment1.pdb
+C:\Users\Manh\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\DNA.exe.config
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\DNA.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\DNA.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\IndexSeq.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\IndexSeq.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\bin\Debug\IndexSeq.exe.config
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\Search16s.csproj.CopyComplete
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\DNA.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\Program16s\obj\Debug\DNA.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\DNA.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\DNA.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.exe.config
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe.config
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.CopyComplete
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\DNA.exe
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\DNA.pdb
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.exe.config
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.exe
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\DNA.pdb
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.pdb
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe.config
+C:\Users\cryst\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.CopyComplete
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\DNA.exe.config
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\DNA.exe
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\DNA.pdb
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\IndexSeq.pdb
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe.config
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.CopyComplete
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\obj\Debug\DNA.exe
+C:\Users\n10203478\Downloads\n10203478Assignment\DNA\obj\Debug\DNA.pdb
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\DNA.exe.config
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\DNA.exe
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\DNA.pdb
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\IndexSeq.pdb
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\bin\Debug\IndexSeq.exe.config
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.AssemblyReference.cache
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.SuggestedBindingRedirects.cache
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\Search16s.csproj.CopyComplete
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\DNA.exe
+F:\PAST\2019 SEM 2\CAB201 ok\n10203478Assignmentpt2\n10203478Assignment\DNA\obj\Debug\DNA.pdb

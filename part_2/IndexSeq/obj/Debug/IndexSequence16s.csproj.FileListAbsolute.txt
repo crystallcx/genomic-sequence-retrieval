@@ -1,0 +1,6 @@
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\bin\Debug\IndexSequence16s.exe.config
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\bin\Debug\IndexSequence16s.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\bin\Debug\IndexSequence16s.pdb
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\obj\Debug\IndexSequence16s.csprojAssemblyReference.cache
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\obj\Debug\IndexSequence16s.exe
+C:\Users\n10203478\OneDrive - Queensland University of Technology\2019 SEM 2\CAB201\n10203478Assignment1\IndexSequence16s\obj\Debug\IndexSequence16s.pdb
