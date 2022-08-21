@@ -1,0 +1,34 @@
+USER MANUAL:
+
+Place the .fasta file (and query file)into the Assignment/Assignment1/bin/Debug folder.
+Output files from the program will also be saved into the Assignment/Assignment1/bin/Debug folder.
+
+To build: Open the Assignment1.sln file which can be found in Assignment/Assignment1, and build by either clicking 'Build' or holding down keys CTRL+SHIFT+B.
+
+To run the program from the command line:
+Enter:
+	cd .../Assignment/Assignment1/bin/Debug
+	Assignment1.exe
+
+There are 3 search levels:
+
+Level 1:	Sequential access using a starting position in the file. 
+		Example: Search16s -level1 filename.fasta 273 10 					
+		Example: Search16s -level1 16S.fasta 273 N > myfile.fasta 
+
+			Search16s is the program name, -level1 is a flag indicating the type of search required, filename.fasta is the fasta file name to read from, 
+			273 is the line number to start the output from, and 10 is the number of sequences that the program should output.
+			The program will capture the output in a file called myfile.fasta in the current directory. N is the number of sequences to output.
+
+Level 2: 	Sequential access to a specific sequence by sequence-id.
+		Example: Search16s -level2 16S.fasta NR_115365.1
+
+			The program will respond by displaying to the console the respective sequence lines.
+
+Level 3: 	Sequential access to find a set of sequence-ids given in a query file, and writing the output to a specified result file.
+		Example: Search16s -level3 16S.fasta query.txt results.txt
+
+			Query filename – in the example it is query.txt – is specified on the command line. The
+			file contains a set of sequence-ids. The program writes out all matching sequences to the
+			specified results file (not to the console). Sequence-ids that are not found should however
+			be output to the console with a suitable error message.
